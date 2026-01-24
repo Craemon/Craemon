@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craemon&layout=compact&bg_color=00000000&text_color=7a7a7a"/>
+![Stats](./profile/stats.svg)
 </p>
